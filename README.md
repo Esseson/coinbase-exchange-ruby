@@ -1,4 +1,4 @@
-# Coinbase Pro Ruby library
+# Coinbase Pro Ruby library test
 
 Please refer to the [Node.js client library](https://github.com/coinbase/coinbase-pro-node) for an up-to-date client implementation.
 
